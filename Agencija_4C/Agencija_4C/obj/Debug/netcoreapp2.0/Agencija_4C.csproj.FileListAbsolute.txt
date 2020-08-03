@@ -1,0 +1,65 @@
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csprojAssemblyReference.cache
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\VI semestar\Softversko inzenjerstvo\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
+d:\Work Space\SOFTVERSKO\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csprojAssemblyReference.cache
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+d:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
+D:\VI semestar\Softversko inzenjerstvo\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csprojAssemblyReference.cache
+D:\Work Space\Projekat\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csprojAssemblyReference.cache
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+C:\Users\MarijaStankovic\si\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.deps.json
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.json
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.runtimeconfig.dev.json
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\bin\Debug\netcoreapp2.0\Agencija_4C.pdb
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csprojAssemblyReference.cache
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.csproj.CoreCompileInputs.cache
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfoInputs.cache
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.AssemblyInfo.cs
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.dll
+D:\softversko\si.19.34.vamosalaplaya\Agencija_4C\Agencija_4C\obj\Debug\netcoreapp2.0\Agencija_4C.pdb
